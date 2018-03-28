@@ -7,3 +7,4 @@ dependencies:
 - scipy
 - ipyvolume
 - matplotlib
+- scikit-image
