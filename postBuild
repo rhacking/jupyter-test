@@ -1,0 +1,7 @@
+pip uninstall -y scikit-image
+conda uninstall -y scikit-image
+conda install -y cython
+git clone https://github.com/scikit-image/scikit-image.git
+cd scikit-image
+python setup.py develop
+pip install -U -e .
