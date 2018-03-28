@@ -6,4 +6,4 @@ dependencies:
 - numpy
 - scipy
 - ipyvolume
-- matpotlib
+- matplotlib
