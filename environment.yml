@@ -1,10 +1,9 @@
 name: cbc
 channels:
 - conda-forge
-- defaults
 dependencies:
 - numpy
 - scipy
 - ipyvolume
 - matplotlib
-- scikit-image=0.13.0=py35hf7e7ad6_1
+- scikit-image
