@@ -7,4 +7,4 @@ dependencies:
 - scipy
 - ipyvolume
 - matplotlib
-- scikit-image
+- scikit-image=0.13.0=py35hf7e7ad6_1
