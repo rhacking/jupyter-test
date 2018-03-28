@@ -6,4 +6,5 @@ dependencies:
 - scipy
 - ipyvolume
 - matplotlib
-- scikit-image
+- pip:
+  - git+https://github.com/scikit-image/scikit-image.git#egg=scikit-image
