@@ -3,8 +3,8 @@ channels:
 - conda-forge
 dependencies:
 - numpy
-- python=3.5.0=1
 - scipy
 - ipyvolume
 - matplotlib
-- scikit-image=0.13.0
+- pip:
+  - git+https://github.com/scikit-image/scikit-image.git#egg=scikit-image[complete]
